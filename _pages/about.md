@@ -12,7 +12,7 @@ I'm a third year PhD student from [Academy of Mathematics and Systems Science, C
 
 
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). 
+You can find my CV here: [CQY's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). 
 You can contact me with [Email](chenqiyuan@amss.ac.cn).
 
 A data-driven personal website
