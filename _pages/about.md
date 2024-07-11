@@ -12,8 +12,8 @@ I'm a forth year PhD student from [Academy of Mathematics and Systems Science, C
 
 
 
-You can find my CV here: [CQY's Curriculum Vitae](../assets/CQY.pdf). 
-You can contact me with [Email](chenqiyuan@amss.ac.cn).
+You can find my CV here: [CQY's Curriculum Vitae]([../assets/CQY.pdf](https://github.com/QiyuanNickChen/QYChen.github.io/blob/master/assets/CQY.pdf)). 
+You can contact me with chenqiyuan@amss.ac.cn.
 
 Research
 ======
