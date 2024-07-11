@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a forth year PhD student from [Academy of Mathematics and Systems Science, Chinese Academy of Sciences](http://english.amss.cas.cn/). Before that, I obtained my bachelor's degree of mathematics from [School of Mathematical Sciences, Zhejiang University](http://www.math.zju.edu.cn/). I am very fortunate to be advised by [Prof.Ke Ye](https://sites.google.com/site/keyeshomepage/) of [KLMM](http://mmrc.amss.cas.cn/) from Academy of Mathematics and Systems Science. I'm interested in commutative algebra, combinatorics and their applications in computational mathematics and theoretical computer science.
+I'm a fourth year PhD student from [Academy of Mathematics and Systems Science, Chinese Academy of Sciences](http://english.amss.cas.cn/). Before that, I obtained my bachelor's degree of mathematics from [School of Mathematical Sciences, Zhejiang University](http://www.math.zju.edu.cn/). I am very fortunate to be advised by [Prof.Ke Ye](https://sites.google.com/site/keyeshomepage/) of [KLMM](http://mmrc.amss.cas.cn/) from Academy of Mathematics and Systems Science. I'm interested in commutative algebra, combinatorics and their applications in computational mathematics and theoretical computer science.
 
 
 
