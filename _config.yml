@@ -12,7 +12,7 @@ title                    : "Qiyuan Chen/陈琦元"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://qiyuannickchen.github.io/QYChen.github.io// # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://qiyuannickchen.github.io/QYChen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "QiyuanNickChen/QYChen.github.io"
 
