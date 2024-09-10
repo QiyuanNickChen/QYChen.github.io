@@ -18,9 +18,9 @@ Research
 ======
 1. (with Ke Ye and Jeffrey Uhlmann) [Generalizing Frobenius inversion to quaternion matrices](https://link.springer.com/article/10.1007/s11075-023-01694-8), Numerical Algorithms, 2023 ([arXiv](https://arxiv.org/abs/2305.02477))<br>
 2. (with Ke Ye) [A quasi-optimal lower bound for skew polynomial multiplication](https://dl.acm.org/doi/10.1145/3666000.3669677), In Proceedings of the 49th International Symposium on Symbolic and Algebraic Computation (ISSAC '24). ([arXiv](https://arxiv.org/abs/2402.04134)) [Recieved Distinguished Student Author Award]<br>
-3. (with Ke Ye) stability of ranks under field extensions, submitted ([arXiv](https://www.arxiv.org/abs/2409.04034))<br>
+3. (with Ke Ye) Stability of ranks under field extensions, submitted ([arXiv](https://www.arxiv.org/abs/2409.04034))<br>
 4. (with Ke Ye) Fast multiplcaition of sparse banded matrix, in preparation.<br>
-5. (with Yansong Feng, Hengyi Luo, Yanbin Pan) Newton Polytope Based Coppersmith’s Method, in preparation.
+5. (with Yansong Feng, Hengyi Luo, Yanbin Pan) Newton polytope based Coppersmith’s method, in preparation.
 
 
 Activity
