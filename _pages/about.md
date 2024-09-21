@@ -27,7 +27,7 @@ Activity and Award
 ======
 2023.6.15-18, attended [CM2023](http://mmrc.iss.ac.cn/cscm/cm2023/) in Dalian, China.
 <br>2024.6.13-16, attended [CM2024](http://mmrc.iss.ac.cn/cscm/cm2024/) in Fuzhou, China.
-<br>2024.7.16-19, attended [ISSAC2024](https://www.issac-conference.org/2024/) in Raleigh, USA.[<b>Recieved Distinguished Student Author Award</b>]
+<br>2024.7.16-19, attended [ISSAC2024](https://www.issac-conference.org/2024/) in Raleigh, USA. [<b>Recieved Distinguished Student Author Award</b>]
 <br>2024.9, received Hua Luogeng Scholarship of AMSS.
 
 
