@@ -17,17 +17,17 @@ You can contact me with chenqiyuan@amss.ac.cn.
 Research
 ======
 1. (with Ke Ye and Jeffrey Uhlmann) [Generalizing Frobenius inversion to quaternion matrices](https://link.springer.com/article/10.1007/s11075-023-01694-8), Numerical Algorithms, 2023 ([arXiv](https://arxiv.org/abs/2305.02477))<br>
-2. (with Ke Ye) [A quasi-optimal lower bound for skew polynomial multiplication](https://dl.acm.org/doi/10.1145/3666000.3669677), In Proceedings of the 49th International Symposium on Symbolic and Algebraic Computation (ISSAC '24). ([arXiv](https://arxiv.org/abs/2402.04134)) [Recieved Distinguished Student Author Award]<br>
+2. (with Ke Ye) [A quasi-optimal lower bound for skew polynomial multiplication](https://dl.acm.org/doi/10.1145/3666000.3669677), In Proceedings of the 49th International Symposium on Symbolic and Algebraic Computation (ISSAC '24). ([arXiv](https://arxiv.org/abs/2402.04134)) <br>
 3. (with Ke Ye) Stability of ranks under field extensions, submitted ([arXiv](https://www.arxiv.org/abs/2409.04034))<br>
 4. (with Ke Ye) Fast multiplcaition of sparse banded matrix, in preparation.<br>
 5. (with Yansong Feng, Hengyi Luo, Yanbin Pan) Newton polytope based Coppersmith’s method, in preparation.
 
 
-Activity and award
+Activity and Award
 ======
 2023.6.15-18, attended [CM2023](http://mmrc.iss.ac.cn/cscm/cm2023/) in Dalian, China.
 <br>2024.6.13-16, attended [CM2024](http://mmrc.iss.ac.cn/cscm/cm2024/) in Fuzhou, China.
-<br>2024.7.16-19, attended [ISSAC2024](https://www.issac-conference.org/2024/) in Raleigh, USA.
+<br>2024.7.16-19, attended [ISSAC2024](https://www.issac-conference.org/2024/) in Raleigh, USA.[<b>Recieved Distinguished Student Author Award</b>]
 <br>2024.9, received Hua Luogeng Scholarship of AMSS.
 
 
