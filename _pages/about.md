@@ -20,6 +20,7 @@ Research
 2. (with Ke Ye) [A quasi-optimal lower bound for skew polynomial multiplication](https://dl.acm.org/doi/10.1145/3666000.3669677), In Proceedings of the 49th International Symposium on Symbolic and Algebraic Computation (ISSAC '24). ([arXiv](https://arxiv.org/abs/2402.04134)) <br>
 3. (with Ke Ye) Stability of ranks under field extensions, accepted by Discrete Analysis.([arXiv](https://www.arxiv.org/abs/2409.04034))<br>
 4. (with Yansong Feng, Hengyi Luo, Abderrahmane Nitaj,Yanbin Pan) Computing Asymptotic Bounds for Small Roots in Coppersmith’s Method via Sumset Theory,Crypto'25. ([iacr](https://eprint.iacr.org/2024/1330))
+5. (with Ke Ye) Bounds for geometric rank in terms of subrank. ([arXiv](https://www.arxiv.org/abs/2506.16132))<br>
 
 Activity and Award
 ======
