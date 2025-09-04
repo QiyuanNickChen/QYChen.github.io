@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate currently on the job market. I am studying applied algebra at [Academy of Mathematics and Systems Science, Chinese Academy of Sciences](http://english.amss.cas.cn/). Before that, I obtained my bachelor's degree of mathematics from [School of Mathematical Sciences, Zhejiang University](http://www.math.zju.edu.cn/) in 2021. I am very fortunate to be advised by [Prof.Ke Ye](https://sites.google.com/site/keyeshomepage/) of [KLMM](http://mmrc.amss.cas.cn/) from Academy of Mathematics and Systems Science. I'm interested in commutative algebra, combinatorics and their applications. More precisely, I am mainly studying several notions of ranks of tensors and related topics from (additive/extremal) combinatorics, (multi-)linear algebra and algebraic complexity theory. 
+I am a PhD candidate currently on the job market. I am learning applied algebra at [Academy of Mathematics and Systems Science, Chinese Academy of Sciences](http://english.amss.cas.cn/). Before that, I obtained my bachelor's degree of mathematics from [School of Mathematical Sciences, Zhejiang University](http://www.math.zju.edu.cn/) in 2021. I am very fortunate to be advised by [Prof.Ke Ye](https://sites.google.com/site/keyeshomepage/) of [KLMM](http://mmrc.amss.cas.cn/) from Academy of Mathematics and Systems Science. I'm interested in commutative algebra, combinatorics and their applications. More precisely, I am mainly studying several notions of ranks of tensors and related topics from (additive/extremal) combinatorics, (multi-)linear algebra and algebraic complexity theory. 
 
 
 If you have any questions, kindly contact me with chenqiyuan@amss.ac.cn.
