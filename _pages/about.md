@@ -13,15 +13,16 @@ I can be reached at <b>chenqiyuan@amss.ac.cn.</b>
 
 Publication and Preprint
 ======
-1.(with Ke Ye) Geometry of multilinear varieties over infinite fields and its applications, 2026. ([arXiv](https://arxiv.org/abs/2605.04859)).<br/>
-2.(with Zixiang Xu and Ke Ye) Turán problems for multilinear maps, 2026. ([arXiv](https://arxiv.org/abs/2603.00715)).<br/>
-3.(with Ke Ye) Isotropy and completeness indices of multilinear maps, 2025. ([arXiv](https://arxiv.org/abs/2510.27387)).<br/>
-4.(with Hong Liu and Ke Ye)  Extremal constructions for apex partite hypergraphs, submitted，2025. ([arXiv](https://arxiv.org/abs/2510.07997)).<br/>
-5.(with Ke Ye) Bounds for geometric rank in terms of subrank, submitted, 2025. ([arXiv](https://www.arxiv.org/abs/2506.16132)).<br/>
-6.(with Ke Ye) [Stability of ranks under field extensions](https://discreteanalysisjournal.com/article/145807-stability-of-ranks-under-field-extensions), <b>Discrete Analysis</b>, 2025.([arXiv](https://www.arxiv.org/abs/2409.04034))<br/>
-7.(with Yansong Feng, Hengyi Luo, Abderrahmane Nitaj,Yanbin Pan) [Computing asymptotic bounds for small roots in Coppersmith’s method via sumset theory](https://link.springer.com/chapter/10.1007/978-3-032-01855-7_1), <b>CRYPTO '25</b>, 2025. ([iacr](https://eprint.iacr.org/2024/1330))<br/>
-8.(with Ke Ye) [A quasi-optimal lower bound for skew polynomial multiplication](https://dl.acm.org/doi/10.1145/3666000.3669677), <b>ISSAC '24</b>, 2024. ([arXiv](https://arxiv.org/abs/2402.04134)) <br/>
-9.(with Ke Ye and Jeffrey Uhlmann) [Generalizing Frobenius inversion to quaternion matrices](https://link.springer.com/article/10.1007/s11075-023-01694-8), <b>Numerical Algorithms</b>, 2023. ([arXiv](https://arxiv.org/abs/2305.02477))<br/>
+1.(with Yuhao Zhao) Lower bounds on the strength of the determinant, 2026. ([arXiv](https://arxiv.org/abs/2607.21015)).<br/>
+2.(with Ke Ye) Geometry of multilinear varieties over infinite fields and its applications, 2026. ([arXiv](https://arxiv.org/abs/2605.04859)).<br/>
+3.(with Zixiang Xu and Ke Ye) Turán problems for multilinear maps, 2026. ([arXiv](https://arxiv.org/abs/2603.00715)).<br/>
+4.(with Ke Ye) Isotropy and completeness indices of multilinear maps, 2025. ([arXiv](https://arxiv.org/abs/2510.27387)).<br/>
+5.(with Hong Liu and Ke Ye)  Extremal constructions for apex partite hypergraphs, submitted，2025. ([arXiv](https://arxiv.org/abs/2510.07997)).<br/>
+6.(with Ke Ye) Bounds for geometric rank in terms of subrank, submitted, 2025. ([arXiv](https://www.arxiv.org/abs/2506.16132)).<br/>
+7.(with Ke Ye) [Stability of ranks under field extensions](https://discreteanalysisjournal.com/article/145807-stability-of-ranks-under-field-extensions), <b>Discrete Analysis</b>, 2025.([arXiv](https://www.arxiv.org/abs/2409.04034))<br/>
+8.(with Yansong Feng, Hengyi Luo, Abderrahmane Nitaj,Yanbin Pan) [Computing asymptotic bounds for small roots in Coppersmith’s method via sumset theory](https://link.springer.com/chapter/10.1007/978-3-032-01855-7_1), <b>CRYPTO '25</b>, 2025. ([iacr](https://eprint.iacr.org/2024/1330))<br/>
+9.(with Ke Ye) [A quasi-optimal lower bound for skew polynomial multiplication](https://dl.acm.org/doi/10.1145/3666000.3669677), <b>ISSAC '24</b>, 2024. ([arXiv](https://arxiv.org/abs/2402.04134)) <br/>
+10.(with Ke Ye and Jeffrey Uhlmann) [Generalizing Frobenius inversion to quaternion matrices](https://link.springer.com/article/10.1007/s11075-023-01694-8), <b>Numerical Algorithms</b>, 2023. ([arXiv](https://arxiv.org/abs/2305.02477))<br/>
 
 
 
