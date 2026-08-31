@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a PhD in applied algebra graduated from [Academy of Mathematics and Systems Science, Chinese Academy of Sciences](http://english.amss.cas.cn/).  I am an incoming postdoctoral researcher at the University of Amsterdam, working with [Prof. Jeroen Zuiddam](https://staff.fnwi.uva.nl/j.zuiddam/). During my PhD, I am very fortunate to be advised by [Prof.Ke Ye](https://sites.google.com/site/keyeshomepage/) of [KLMM](http://mmrc.amss.cas.cn/) from Academy of Mathematics and Systems Science. Before my PhD, I obtained my bachelor's degree of mathematics from [School of Mathematical Sciences, Zhejiang University](http://www.math.zju.edu.cn/) in 2021. I'm interested in commutative algebra, combinatorics and their applications. More precisely, I am mainly studying several notions of ranks of tensors and related topics from (additive/extremal) combinatorics, (multi-)linear algebra and algebraic complexity theory. For more details, please see my (pre-)publication list.
+Hi, I am a postdoctoral researcher at the [Korteweg-de Vries Institute for Mathematics](https://kdvi.uva.nl/) of the University of Amsterdam, mentored by [Prof. Jeroen Zuiddam](https://staff.fnwi.uva.nl/j.zuiddam/). I obtained my PhD in applied algebra from the [Academy of Mathematics and Systems Science, Chinese Academy of Sciences](http://english.amss.cas.cn/) in 2026. During my PhD, I was fortunate to be advised by [Prof.Ke Ye](https://sites.google.com/site/keyeshomepage/) of [KLMM](http://mmrc.amss.cas.cn/). Prior to my PhD studies, I obtained my bachelor's degree of mathematics from [School of Mathematical Sciences, Zhejiang University](http://www.math.zju.edu.cn/) in 2021. 
 
-I can be reached at <b>chenqiyuan@amss.ac.cn.</b>
+I'm interested in commutative algebra, combinatorics, and their applications. More precisely, I am mainly studying several notions of ranks of tensors and related topics from algebraic complexity theory, (additive/extremal) combinatorics, and (multi/numerical-)linear algebra. For more details, please refer to the list of my (pre-)publication .
+
+I can be reached at <b>q.chen3@uva.nl</b> or chenqiyuan@amss.ac.cn.
 
 Publication and Preprint
 ======
