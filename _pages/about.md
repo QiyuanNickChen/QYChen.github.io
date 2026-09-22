@@ -16,10 +16,10 @@ I can be reached at <b>q.chen3@uva.nl</b> or chenqiyuan@amss.ac.cn.
 Publication and Preprint
 ======
 1.(with Yuhao Zhao) Lower bounds on the strength of the determinant, 2026. ([arXiv](https://arxiv.org/abs/2607.21015)).<br/>
-2.(with Ke Ye) Geometry of multilinear varieties over infinite fields and its applications, 2026. ([arXiv](https://arxiv.org/abs/2605.04859)).<br/>
-3.(with Zixiang Xu and Ke Ye) Turán problems for multilinear maps, 2026. ([arXiv](https://arxiv.org/abs/2603.00715)).<br/>
+2.(with Ke Ye) Geometry of multilinear varieties over infinite fields and its applications, submitted, 2026. ([arXiv](https://arxiv.org/abs/2605.04859)).<br/>
+3.(with Zixiang Xu and Ke Ye) Turán problems for multilinear maps, submitted, 2026. ([arXiv](https://arxiv.org/abs/2603.00715)).<br/>
 4.(with Ke Ye) Isotropy and completeness indices of multilinear maps, 2025. ([arXiv](https://arxiv.org/abs/2510.27387)).<br/>
-5.(with Hong Liu and Ke Ye)  Extremal constructions for apex partite hypergraphs, submitted，2025. ([arXiv](https://arxiv.org/abs/2510.07997)).<br/>
+5.(with Hong Liu, Yuang Yang and Ke Ye)  Random algebraic constructions for extremal and Ramsey problems, submitted, 2025. ([arXiv](https://arxiv.org/abs/2510.07997)).<br/>
 6.(with Ke Ye) Bounds for geometric rank in terms of subrank, submitted, 2025. ([arXiv](https://www.arxiv.org/abs/2506.16132)).<br/>
 7.(with Ke Ye) [Stability of ranks under field extensions](https://discreteanalysisjournal.com/article/145807-stability-of-ranks-under-field-extensions), <b>Discrete Analysis</b>, 2025.([arXiv](https://www.arxiv.org/abs/2409.04034))<br/>
 8.(with Yansong Feng, Hengyi Luo, Abderrahmane Nitaj,Yanbin Pan) [Computing asymptotic bounds for small roots in Coppersmith’s method via sumset theory](https://link.springer.com/chapter/10.1007/978-3-032-01855-7_1), <b>CRYPTO '25</b>, 2025. ([iacr](https://eprint.iacr.org/2024/1330))<br/>
